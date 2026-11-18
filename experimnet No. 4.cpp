@@ -70,13 +70,7 @@ int main()
 {
     int choice;
 
-    cout << "========================================\n";
-    cout << "                 OUTPUT\n";
-    cout << "========================================\n";
-    cout << "Name       : Deepali Pardhi\n";
-    cout << "Class      : SY B.Tech\n";
-    cout << "Roll No.   : 214\n";
-    cout << "========================================\n";
+
 
     cout << "\nEnter maximum queue size: ";
     cin >> queueSize;
